@@ -1,0 +1,8 @@
+{
+  "name": "نشكا للسياحة — التأشيرة السياحية السعودية",
+  "description": "بوابة نشكا للسياحة لخدمة مساعدة وتجهيز ملف التأشيرة السياحية للمملكة العربية السعودية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
